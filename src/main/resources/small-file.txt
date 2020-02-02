@@ -1,0 +1,8 @@
+2015-03-08 10:30:00     /user841/operation1
+2015-03-08 10:30:00     /user841/operation1
+2015-03-08 10:30:00     /user841/operation3
+2015-03-08 10:30:00     /user841/operation2
+2015-03-08 10:30:00     /user2/operation2
+2015-03-08 10:30:00     /user2/operation2
+2015-03-08 10:30:00     /user3/operation2
+2015-03-08 10:30:00     /user3/operation3

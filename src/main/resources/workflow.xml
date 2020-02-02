@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workflow>
+    <action id="$1" class="com.aayyad.uniticker.action.ReadDataFromFilesAction"/>
+    <action id="$2" class="com.aayyad.uniticker.action.WrapDataIntoEntitiesObjectsAction"/>
+    <action id="$3" class="com.aayyad.uniticker.action.FilterEntitiesByOnePerUserAction"/>
+    <action id="$4" class="com.aayyad.uniticker.action.CalculateAllUsersAction"/>
+    <action id="$5" class="com.aayyad.uniticker.action.CalculateAllOperationsAction"/>
+    <action id="$6" class="com.aayyad.uniticker.action.CalculateOperationsCountAction"/>
+    <action id="$7" class="com.aayyad.uniticker.action.SortOperationsByNumberOfUsersAction"/>
+    <action id="$8" class="com.aayyad.uniticker.action.PrintResultsAction"/>
+</workflow>
